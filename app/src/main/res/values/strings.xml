@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButtons&amp;CheckBoxes</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Display the radio button</string>
+    <string name="button2">Display which is checked</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="windows">Windows</string>
+</resources>
